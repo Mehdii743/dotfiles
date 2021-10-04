@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = mehdi.oubadriss@gmail.com
+	name = Mehdi oubadriss
